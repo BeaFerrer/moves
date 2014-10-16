@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Moves
+#
+
+projectname: Moves
+vendorid: com.mycompany
+mainmodule: com.mycompany.moves
